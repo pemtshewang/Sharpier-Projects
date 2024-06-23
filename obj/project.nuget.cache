@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2BWztoWgOcG0ak4OGiYfnqQ5UDBbANtaNSxfRGBig2m2SzRbeKLz84IT8LT/fK41SmkQ/k7Av7A5/PwTOBQvPw==",
+  "success": true,
+  "projectFilePath": "/home/themirai/learn/c#/c#.csproj",
+  "expectedPackageFiles": [
+    "/home/themirai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
