@@ -1,9 +1,8 @@
-# Sharpier Projects
-
-> What I cannot create, I do not understand
-> _- Richard Feynman_
+# Sharpier Projects > What I cannot create, I do not understand _- Richard Feynman_
 
 **The projects I will built while making myself to learn C#**
+
+![Background photo](./bk.png)
 
 ### Projects built
 
